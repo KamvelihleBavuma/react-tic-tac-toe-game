@@ -21,13 +21,14 @@ body {
       rgba(241, 210, 70, 0.98),
       rgba(250, 176, 103, 0.87)
     ),
-    url("/bg-pattern-dark.png");
-  background-repeat: repeat;
+    url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80");
+  background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
+
 
 /* --- Header --- */
 .app-header {
